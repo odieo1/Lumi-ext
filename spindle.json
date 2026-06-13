@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "name": "PerChance Image Generator",
+  "identifier": "perchance_image_gen",
+  "author": "Simplefanatic",
+  "github": "https://github.com/Simplefanatic/perchance-image-gen",
+  "homepage": "https://github.com/Simplefanatic/perchance-image-gen",
+  "description": "Adds a PerChance AI image generator tab to the Lumiverse drawer. Zero-cost, no API key required.",
+  "permissions": [],
+  "entry_frontend": "dist/frontend.js",
+  "minimum_lumiverse_version": "0.1.0"
+}
