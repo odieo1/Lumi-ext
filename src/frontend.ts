@@ -115,13 +115,7 @@ export function setup(ctx: SpindleFrontendContext): () => void {
   </style>
 </head>
 <body>
-  <iframe
-    src="${PERCHANCE_URL}"
-    allow="accelerometer; autoplay; clipboard-read; clipboard-write; encrypted-media; fullscreen; geolocation; microphone; picture-in-picture; web-share"
-    sandbox="allow-scripts allow-same-origin allow-forms allow-popups allow-popups-to-escape-sandbox"
-    title="PerChance AI Image Generator"
-    referrerpolicy="no-referrer"
-  ></iframe>
+  <iframe src="https://null.perchance.org/ai-text-to-image-generator" width="100%" height="600px" frameborder="0"></iframe>
 </body>
 </html>`
 
