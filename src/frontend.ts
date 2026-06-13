@@ -19,7 +19,7 @@ import type { SpindleFrontendContext } from 'lumiverse-spindle-types'
 
 // ── Constants ──────────────────────────────────────────────────────────────────
 
-const PERCHANCE_URL = 'https://null.perchance.org/ai-text-to-image-generator?embed'
+const PERCHANCE_URL = 'https://null.perchance.org/ai-text-to-image-generator'
 
 /** Image/camera icon — shown in the sidebar tab and command palette. */
 const ICON_SVG = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" width="20" height="20">
